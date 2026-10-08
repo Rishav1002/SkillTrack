@@ -1,0 +1,202 @@
+name,category,aliases
+Python,Programming,python|python
+JavaScript,Programming,js|javascript
+TypeScript,Programming,typescript|typescript
+Java,Programming,java|java
+C++,Programming,c++|c++
+C#,Programming,c#|c#
+Go,Programming,go|go
+Rust,Programming,rust|rust
+Ruby,Programming,ruby|ruby
+PHP,Programming,php|php
+Kotlin,Programming,kotlin|kotlin
+Swift,Programming,swift|swift
+Dart,Programming,dart|dart
+Scala,Programming,scala|scala
+R,Programming,r|r
+MATLAB,Programming,matlab|matlab
+Bash,Programming,bash|bash
+PowerShell,Programming,powershell|powershell
+Lua,Programming,lua|lua
+Perl,Programming,perl|perl
+Objective-C,Programming,objective-c|objective-c
+Groovy,Programming,groovy|groovy
+Haskell,Programming,haskell|haskell
+Elixir,Programming,elixir|elixir
+SQL,Programming,sql|sql
+NoSQL,Programming,nosql|nosql
+OOP,Programming,oop|oop
+Functional Programming,Programming,functional programming|functional-programming
+Data Structures,Programming,data structures|data-structures
+Algorithms,Programming,algorithms|algorithms
+Concurrency,Programming,concurrency|concurrency
+Recursion,Programming,recursion|recursion
+Unit Testing,Programming,unit testing|unit-testing
+System Design,Programming,system design|system-design
+HTML,Web,html|html
+CSS,Web,css|css
+Sass,Web,sass|sass
+Tailwind CSS,Web,tailwind css|tailwind-css
+React,Web,reactjs|react
+React Native,Web,react native|react-native
+Angular,Web,angular|angular
+Vue.js,Web,vue.js|vue.js
+Next.js,Web,next.js|next.js
+Nuxt.js,Web,nuxt.js|nuxt.js
+Node.js,Web,node|node.js
+Express.js,Web,express.js|express.js
+Django,Web,django|django
+Flask,Web,flask|flask
+FastAPI,Web,fastapi|fastapi
+Spring Boot,Web,spring boot|spring-boot
+Laravel,Web,laravel|laravel
+Rails,Web,rails|rails
+REST APIs,Web,rest apis|rest-apis
+GraphQL,Web,graphql|graphql
+WebSockets,Web,websockets|websockets
+JWT,Web,jwt|jwt
+OAuth,Web,oauth|oauth
+Responsive Design,Web,responsive design|responsive-design
+Accessibility,Web,accessibility|accessibility
+Web Performance,Web,web performance|web-performance
+Webpack,Web,webpack|webpack
+Vite,Web,vite|vite
+Redux,Web,redux|redux
+Zustand,Web,zustand|zustand
+Material UI,Web,material ui|material-ui
+Bootstrap,Web,bootstrap|bootstrap
+Figma,Web,figma|figma
+User Research,Web,user research|user-research
+PostgreSQL,Databases,postgres|postgresql
+MySQL,Databases,mysql|mysql
+SQLite,Databases,sqlite|sqlite
+MongoDB,Databases,mongodb|mongodb
+Redis,Databases,redis|redis
+Cassandra,Databases,cassandra|cassandra
+DynamoDB,Databases,dynamodb|dynamodb
+Oracle,Databases,oracle|oracle
+SQL Server,Databases,sql server|sql-server
+MariaDB,Databases,mariadb|mariadb
+Elasticsearch,Databases,elasticsearch|elasticsearch
+Neo4j,Databases,neo4j|neo4j
+Database Design,Databases,database design|database-design
+Query Optimization,Databases,query optimization|query-optimization
+Data Modeling,Databases,data modeling|data-modeling
+ETL,Databases,etl|etl
+Data Warehousing,Databases,data warehousing|data-warehousing
+Snowflake,Databases,snowflake|snowflake
+BigQuery,Databases,bigquery|bigquery
+Redshift,Databases,redshift|redshift
+Apache Spark,Databases,apache spark|apache-spark
+Kafka,Databases,kafka|kafka
+Airflow,Databases,airflow|airflow
+Pandas,Data Science/ML,pandas|pandas
+NumPy,Data Science/ML,numpy|numpy
+scikit-learn,Data Science/ML,sklearn|scikit-learn
+TensorFlow,Data Science/ML,tensorflow|tensorflow
+PyTorch,Data Science/ML,pytorch|pytorch
+Keras,Data Science/ML,keras|keras
+Machine Learning,Data Science/ML,ml|machine-learning
+Deep Learning,Data Science/ML,deep learning|deep-learning
+NLP,Data Science/ML,nlp|nlp
+Computer Vision,Data Science/ML,computer vision|computer-vision
+Statistics,Data Science/ML,statistics|statistics
+Probability,Data Science/ML,probability|probability
+Linear Algebra,Data Science/ML,linear algebra|linear-algebra
+Time Series,Data Science/ML,time series|time-series
+A/B Testing,Data Science/ML,a/b testing|a/b-testing
+Feature Engineering,Data Science/ML,feature engineering|feature-engineering
+Model Evaluation,Data Science/ML,model evaluation|model-evaluation
+Regression,Data Science/ML,regression|regression
+Classification,Data Science/ML,classification|classification
+Clustering,Data Science/ML,clustering|clustering
+Recommendation Systems,Data Science/ML,recommendation systems|recommendation-systems
+Transformers,Data Science/ML,transformers|transformers
+LLMs,Data Science/ML,llms|llms
+Prompt Engineering,Data Science/ML,prompt engineering|prompt-engineering
+spaCy,Data Science/ML,spacy|spacy
+OpenCV,Data Science/ML,opencv|opencv
+Matplotlib,Data Science/ML,matplotlib|matplotlib
+Seaborn,Data Science/ML,seaborn|seaborn
+Power BI,Data Science/ML,power bi|power-bi
+Tableau,Data Science/ML,tableau|tableau
+Excel,Data Science/ML,excel|excel
+Jupyter,Data Science/ML,jupyter|jupyter
+MLflow,Data Science/ML,mlflow|mlflow
+Hugging Face,Data Science/ML,hugging face|hugging-face
+AWS,Cloud/DevOps,aws|aws
+Azure,Cloud/DevOps,azure|azure
+Google Cloud,Cloud/DevOps,google cloud|google-cloud
+Docker,Cloud/DevOps,docker|docker
+Kubernetes,Cloud/DevOps,kubernetes|kubernetes
+Terraform,Cloud/DevOps,terraform|terraform
+Ansible,Cloud/DevOps,ansible|ansible
+Jenkins,Cloud/DevOps,jenkins|jenkins
+GitHub Actions,Cloud/DevOps,github actions|github-actions
+GitLab CI,Cloud/DevOps,gitlab ci|gitlab-ci
+Linux,Cloud/DevOps,linux|linux
+Nginx,Cloud/DevOps,nginx|nginx
+Apache,Cloud/DevOps,apache|apache
+CI/CD,Cloud/DevOps,ci/cd|ci/cd
+DevOps,Cloud/DevOps,devops|devops
+Cloud Computing,Cloud/DevOps,cloud computing|cloud-computing
+Serverless,Cloud/DevOps,serverless|serverless
+AWS Lambda,Cloud/DevOps,aws lambda|aws-lambda
+Amazon S3,Cloud/DevOps,amazon s3|amazon-s3
+Amazon EC2,Cloud/DevOps,amazon ec2|amazon-ec2
+Azure Functions,Cloud/DevOps,azure functions|azure-functions
+Prometheus,Cloud/DevOps,prometheus|prometheus
+Grafana,Cloud/DevOps,grafana|grafana
+Helm,Cloud/DevOps,helm|helm
+Istio,Cloud/DevOps,istio|istio
+Networking,Cloud/DevOps,networking|networking
+System Administration,Cloud/DevOps,system administration|system-administration
+Infrastructure as Code,Cloud/DevOps,infrastructure as code|infrastructure-as-code
+Git,Tools,git|git
+GitHub,Tools,github|github
+GitLab,Tools,gitlab|gitlab
+Bitbucket,Tools,bitbucket|bitbucket
+Jira,Tools,jira|jira
+Confluence,Tools,confluence|confluence
+Postman,Tools,postman|postman
+Swagger,Tools,swagger|swagger
+VS Code,Tools,vs code|vs-code
+IntelliJ IDEA,Tools,intellij idea|intellij-idea
+PyCharm,Tools,pycharm|pycharm
+Android Studio,Tools,android studio|android-studio
+Selenium,Tools,selenium|selenium
+Cypress,Tools,cypress|cypress
+Playwright,Tools,playwright|playwright
+pytest,Tools,pytest|pytest
+Jest,Tools,jest|jest
+Cucumber,Tools,cucumber|cucumber
+Agile,Tools,agile|agile
+Scrum,Tools,scrum|scrum
+Kanban,Tools,kanban|kanban
+Linux CLI,Tools,linux cli|linux-cli
+MacOS,Tools,macos|macos
+Windows,Tools,windows|windows
+Slack,Tools,slack|slack
+Notion,Tools,notion|notion
+Miro,Tools,miro|miro
+OpenAPI,Tools,openapi|openapi
+Communication,Soft skills,communication|communication
+Teamwork,Soft skills,teamwork|teamwork
+Leadership,Soft skills,leadership|leadership
+Problem Solving,Soft skills,problem solving|problem-solving
+Critical Thinking,Soft skills,critical thinking|critical-thinking
+Time Management,Soft skills,time management|time-management
+Adaptability,Soft skills,adaptability|adaptability
+Mentoring,Soft skills,mentoring|mentoring
+Presentation,Soft skills,presentation|presentation
+Stakeholder Management,Soft skills,stakeholder management|stakeholder-management
+Writing,Soft skills,writing|writing
+Research,Soft skills,research|research
+Collaboration,Soft skills,collaboration|collaboration
+Conflict Resolution,Soft skills,conflict resolution|conflict-resolution
+Emotional Intelligence,Soft skills,emotional intelligence|emotional-intelligence
+Negotiation,Soft skills,negotiation|negotiation
+Ownership,Soft skills,ownership|ownership
+Curiosity,Soft skills,curiosity|curiosity
+Decision Making,Soft skills,decision making|decision-making
+Attention to Detail,Soft skills,attention to detail|attention-to-detail
